@@ -1,7 +1,7 @@
 Welcome to My GitHub Profile! 👋
 # Hello, There
 
-Hi there! I'm Joshua Oresanya, an aspiring Cloud Security Engineer passionate about securing the cloud, and innovative solutions.
+I'm Joshua Oresanya, an aspiring Cloud Security Engineer passionate about securing the cloud, and innovative solutions.
 
 👨‍💻 About Me
 
