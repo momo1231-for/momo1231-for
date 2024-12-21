@@ -1,5 +1,5 @@
 Welcome to My GitHub Profile! 👋
-# Hello, Joshua
+# Hello, There
 
 Hi there! I'm Joshua Oresanya, an aspiring Cloud Security Engineer passionate about securing the cloud, and innovative solutions.
 
@@ -53,10 +53,6 @@ Hi there! I'm Joshua Oresanya, an aspiring Cloud Security Engineer passionate ab
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
 
 🤝 Looking to Collaborate: Network Security and Vulnerability Assessment projects. Whether it's designing secure systems and infrastructure, analyzing threats, or mitigating risks.
 
