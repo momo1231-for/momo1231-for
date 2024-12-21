@@ -15,15 +15,13 @@ Hi there! I'm Joshua Oresanya, an aspiring Cloud Security Engineer passionate ab
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         |
 |-----------------------------------------------|
 | SIEM Implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection 
 | Security Automation with Shuffle SOAR         
-| Incident Response Planning and Execution      
-| Case Management with TheHive                  
+| Incident Response Planning and Execution                       
 | Scripting and Automation for Threat Mitigation 
 
 ## Tools
@@ -65,7 +63,7 @@ I enjoy growing and communing with music whether by singing, playing, or learnin
 ✨ No Excuses by Brian Tracy — a powerhouse in self-growth and discipline.
 💰 Rich Dad Poor Dad by Robert Kiyosaki — a game-changer in financial literacy.
 
-✈️ I love traveling! Although it’s been a while and I haven’t explored many places yet, I am ready for adventure and my curiosity is burning.
+✈️ I love traveling! Although it’s been a while and I haven’t explored many places, I am ready for adventure and my curiosity is burning.
 
 
 🤝 Let’s Connect!
