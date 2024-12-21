@@ -45,7 +45,7 @@ I'm Joshua Oresanya, an aspiring Cloud Security Engineer passionate about securi
 
 ## Certifications
 <div>
-<img src="https://drive.google.com/file/d/1VMUDTnAAvRVW1ZY1IQlcjJLnGMg_k7Gh/view?usp=drive_link" />
+<img src="https://www.google.com/imgres?q=aws%20cloud%20practitioner%20essentials&imgurl=https%3A%2F%2Finfosyte.com%2Fwp-content%2Fuploads%2F2023%2F07%2FAWS-Cloud-Practitioner-Essentials.png&imgrefurl=https%3A%2F%2Finfosyte.com%2Fproduct%2Faws-cloud-practitioner-essentials%2F&docid=Ff16yS_FMKRxVM&tbnid=oLDGu9THrIwfQM&vet=12ahUKEwi3qImr9rmKAxXKa0EAHZAGNKgQM3oECEwQAA..i&w=1251&h=1251&hcb=2&ved=2ahUKEwi3qImr9rmKAxXKa0EAHZAGNKgQM3oECEwQAA" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
