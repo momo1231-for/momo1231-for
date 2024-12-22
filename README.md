@@ -47,10 +47,7 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud, and
 
 ## Certifications
 <div>
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
+
 </div>
 
 
