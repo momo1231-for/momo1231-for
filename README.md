@@ -3,7 +3,7 @@ Welcome to My GitHub Profile! 👋
 
 
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 <div>
 I'm an aspiring Cloud Security Engineer passionate about securing the cloud, and innovative solutions.
 
@@ -12,6 +12,9 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud, and
 💼 Career Goal: To become a highly skilled Cloud Security Engineer, contributing to the safety and resilience of business applications worldwide.
 
 🎯 Key Interests: Cybersecurity, Cloud innovative solutions for smarter business workflows, and Artificial Intelligence.
+
+
+🤝 Looking to Collaborate: Network Security and Vulnerability Assessment projects. Whether it's designing secure systems and infrastructure, analyzing threats, or mitigating risks
 </div>
 
 
@@ -51,9 +54,8 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud, and
 </div>
 
 
-🤝 Looking to Collaborate: Network Security and Vulnerability Assessment projects. Whether it's designing secure systems and infrastructure, analyzing threats, or mitigating risks.
 
-🚀 Outside the world of tech: 
+## 🚀 Outside the world of tech: 
 
 I enjoy growing and communing with music whether by singing, playing, or learning an instrument, or sometimes just listening
 
@@ -65,7 +67,7 @@ I enjoy growing and communing with music whether by singing, playing, or learnin
 ✈️ I love traveling! Although it’s been a while and I haven’t explored many places, I am ready for adventure and my curiosity is burning.
 
 
-🤝 Let’s Connect!
+## 🤝 Let’s Connect!
 I always want to connect with like-minded individuals and collaborate on meaningful projects. Feel free to reach out:
 
 GitHub: https://github.com/momo1231-for
