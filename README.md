@@ -50,8 +50,9 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 
 ## Certifications
 <div>
-Microsoft Certified: Aure AI Fundamentals <img src="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya-9145/23DBBD475FA9B88A?sharingId=73AF01FAD4EB0B5F"/>
-Microsoft Certified: Aure Fundamentals 
+Microsoft Certified: Azure AI Fundamentals <img src="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya-9145/23DBBD475FA9B88A?sharingId=73AF01FAD4EB0B5F"/>
+
+Microsoft Certified: Azure Fundamentals 
 </div>
 
  ## Github Stats
