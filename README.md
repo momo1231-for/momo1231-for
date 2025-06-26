@@ -9,7 +9,7 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud, and
 
 🌱 Currently Learning: Network Security, Threat Hunting, and Secure Cloud Deployment(on AWS).
 
-💼 Career Goal: To become a highly skilled Cloud Security Engineer, contributing to the safety and resilience of business applications worldwide.
+💼 Career Goal: To become a highly skilled Cloud Security Architect, contributing to the safety and resilience of business applications worldwide.
 
 🎯 Key Interests: Cybersecurity, Cloud innovative solutions for smarter business workflows, and Artificial Intelligence.
 
