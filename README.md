@@ -50,7 +50,9 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 
 ## Certifications
 <div>
-Microsoft Certified: Azure AI Fundamentals <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png"/>
+ <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png"/>
+    
+Microsoft Certified: Azure AI Fundamentals
 
 Microsoft Certified: Azure Fundamentals 
 </div>
