@@ -62,9 +62,9 @@ I'm an aspiring Cloud Security Architect passionate about securing the cloud and
 </p>
 
 <!-- Contribution Streak -->
-<p align="center">
+<!--<p align="center">
   <img src="https://streak-stats.demolab.com?user=momo1231-for&theme=radical" alt="GitHub Streak" />
-</p>
+</p>-->
 
 <!-- Top Languages -->
 <p align="center">
