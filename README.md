@@ -50,7 +50,12 @@ I'm an aspiring Cloud Security Architect passionate about securing the cloud and
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya-9145/4F1A22F641883A70?sharingId=73AF01FAD4EB0B5F" target="_blank">
     <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png" alt="Azure Fundamentals" />
   </a>
-  <br/>Microsoft Certified: Azure Fundamentals
+  <br/>Microsoft Certified: Azure Fundamentals<br/>
+  
+   <a href="https://www.credly.com/badges/cd02c6ba-2776-484a-802e-2c8a1404fc4c/public_url" target="_blank">
+       <img src="https://github.com/momo1231-for/cert/blob/main/fortinet-certified-associate-cybersecurity.1.png" alt="FortiGate Certified Associate" />
+   </a>
+   <br/>Fortinet Certified Associate Cybersecurity
 </p>
 
 </div>
