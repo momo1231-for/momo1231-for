@@ -99,12 +99,8 @@ I enjoy growing and communing with music, whether by singing, playing, or learni
 
 ## 🤝 Let’s Connect!
 I always want to connect with like-minded individuals and collaborate on meaningful projects. Feel free to reach out:
-
-GitHub: https://github.com/momo1231-for
-
 Email: oresanyaj124@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/joshua-oresanya-1aa1a8360) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Youryoungers)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/momo1231-for)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/joshua-oresanya-1aa1a8360) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Youryoungers)
 
 Thanks for stopping by! 🚀 Let’s build something incredible together.
 
