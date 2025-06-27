@@ -41,21 +41,16 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
-
 ## Certifications
 <div>
- <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png"/>
-    
-Microsoft Certified: Azure AI Fundamentals
-
- <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png"/>
-
+ <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png"/><br/>    
+Microsoft Certified: Azure AI Fundamentals<br/>
+ <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png"/><br/>
 Microsoft Certified: Azure Fundamentals 
 </div>
 
