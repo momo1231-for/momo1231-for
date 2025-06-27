@@ -5,8 +5,6 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 
 ## 👨‍💻 About Me
 <div>
-
-
 🌱 Currently Learning: Network Security, Threat Hunting, and Secure Cloud Deployment(on AWS).<br/>💼 Career Goal: To become a highly skilled Cloud Security Architect, contributing to the safety and resilience of business applications worldwide.<br/>🎯 Key Interests: Cybersecurity, Cloud innovative solutions for smarter business workflows, and Artificial Intelligence.<br/>🤝 Looking to Collaborate: Network Security and Vulnerability Assessment projects. Whether it's designing secure systems and infrastructure, analyzing threats, or mitigating risks
 </div>
 
@@ -43,10 +41,18 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 ## Certifications
 
 <div>
-    <p align="center">
- <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png"/><br/>Microsoft Certified: Azure AI Fundamentals<br/>
- <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png"/><br/>Microsoft Certified: Azure Fundamentals 
-    </p>
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya-9145/23DBBD475FA9B88A?sharingId=73AF01FAD4EB0B5F" target="_blank">
+    <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png" alt="Azure AI Fundamentals" />
+  </a>
+  <br/>Microsoft Certified: Azure AI Fundamentals<br/>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya-9145/4F1A22F641883A70?sharingId=73AF01FAD4EB0B5F" target="_blank">
+    <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png" alt="Azure Fundamentals" />
+  </a>
+  <br/>Microsoft Certified: Azure Fundamentals
+</p>
+
 </div>
 
  ## Github Stats
@@ -79,12 +85,8 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 I enjoy growing and communing with music, whether by singing, playing, or learning an instrument, or sometimes just listening<br/>📚 I’m a big fan of personal development and financial empowerment books! Some of my favorites are:<br/>✨ No Excuses by Brian Tracy — a powerhouse in self-growth and discipline.<br/>💰 Rich Dad Poor Dad by Robert Kiyosaki — a game-changer in financial literacy.<br/>✈️ I love traveling! Although it’s been a while and I haven’t explored many places, I am ready for adventure and my curiosity is burning.
 
 ## 🤝 Let’s Connect!
-I always want to connect with like-minded individuals and collaborate on meaningful projects. Feel free to reach out:<br/>
-Email: oresanyaj124@gmail.com<br/>
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/momo1231-for)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/joshua-oresanya-1aa1a8360) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Youryoungers)
-
-Thanks for stopping by! 🚀 Let’s build something incredible together.
-
+I always want to connect with like-minded individuals and collaborate on meaningful projects. Feel free to reach out:<br/>Email: oresanyaj124@gmail.com<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/momo1231-for)<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/joshua-oresanya-1aa1a8360)<br/> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Youryoungers)<br/>Thanks for stopping by! 🚀 Let’s build something incredible together.
 <!---
 momo1231-for/momo1231-for is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
