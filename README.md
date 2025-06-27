@@ -55,7 +55,7 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 
 </div>
 
- ## Github Stats
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=momo1231-for&show_icons=true&theme=radical&hide=issues&rank_icon=percentile" alt="GitHub Stats" />
@@ -66,10 +66,10 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
   <img src="https://streak-stats.demolab.com?user=momo1231-for&theme=radical" alt="GitHub Streak" />
 </p>
 
-<!-- Most Used Languages -->
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo1231-for&layout=compact&theme=radical" alt="Top Languages" />  
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo1231-for&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 <!-- Optional Trophy Section -->
 <!--
 <p align="center">
@@ -78,8 +78,6 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 -->
 
 <!-- Footer or bio (optional) -->
-
-
 ## 🚀 Outside the world of tech:
 I enjoy growing and communing with music, whether by singing, playing, or learning an instrument, or sometimes just listening<br/>📚 I’m a big fan of personal development and financial empowerment books! Some of my favorites are:<br/>✨ No Excuses by Brian Tracy — a powerhouse in self-growth and discipline.<br/>💰 Rich Dad Poor Dad by Robert Kiyosaki — a game-changer in financial literacy.<br/>✈️ I love traveling! Although it’s been a while and I haven’t explored many places, I am ready for adventure and my curiosity is burning.
 
