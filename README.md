@@ -68,8 +68,7 @@ I'm an aspiring Cloud Security Engineer passionate about securing the cloud and 
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo1231-for&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo1231-for&layout=compact&theme=radical" alt="Top Languages" />  
 
 <!-- Optional Trophy Section -->
 <!--
@@ -87,6 +86,9 @@ I enjoy growing and communing with music, whether by singing, playing, or learni
 ## 🤝 Let’s Connect!
 I always want to connect with like-minded individuals and collaborate on meaningful projects. Feel free to reach out:<br/>Email: oresanyaj124@gmail.com<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/momo1231-for)<br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/joshua-oresanya-1aa1a8360)<br/> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Youryoungers)<br/>Thanks for stopping by! 🚀 Let’s build something incredible together.
+<!--Roadmap.sh sction -->
+
+[![roadmap.sh](https://roadmap.sh/card/tall/685c8fd5692da1a94ed0fee1?variant=dark&roadmaps=linux%2Cai-red-teaming%2Caws%2Ccyber-security)](https://roadmap.sh) 
 <!---
 momo1231-for/momo1231-for is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
