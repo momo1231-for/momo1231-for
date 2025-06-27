@@ -67,8 +67,8 @@ I'm an aspiring Cloud Security Architect passionate about securing the cloud and
 </p>-->
 
 <!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo1231-for&layout=compact&theme=radical" alt="Top Languages" />
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momo1231-for&layout=compact&theme=radical" alt="Top Languages" />-->
 </p>
 <!-- Optional Trophy Section -->
 <!--
