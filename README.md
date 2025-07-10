@@ -1,12 +1,9 @@
-Welcome to My GitHub Profile! 👋
-# Hello, I'm Joshua Oresanya
+# Welcome to My GitHub Profile! 👋
 
-I'm an aspiring Cloud Security Architect passionate about securing the cloud and innovative solutions.
+I'm **Joshua Oresanya** an aspiring **Cloud Security Architect** passionate about securing the cloud and innovative solutions.
 
 ## 👨‍💻 About Me
-<div>
-🌱 Currently Learning: Network Security, Threat Hunting, and Secure Cloud Deployment(on AWS).<br/>💼 Career Goal: To become a highly skilled Cloud Security Architect, contributing to the safety and resilience of business applications worldwide.<br/>🎯 Key Interests: Cybersecurity, Cloud innovative solutions for smarter business workflows, and Artificial Intelligence.<br/>🤝 Looking to Collaborate: Network Security and Vulnerability Assessment projects. Whether it's designing secure systems and infrastructure, analyzing threats, or mitigating risks
-</div>
+🌱 Currently Learning: **Network Security**, **Threat Hunting**, and **Secure Cloud Deployment**(on AWS, Azure, and Oracle).<br/>💼 Career Goal: To become a highly skilled **Cloud Security Architect**, contributing to the **safety** and **resilience** of business applications worldwide.<br/>🎯 Key Interests: Cybersecurity, Cloud innovative solutions for smarter business workflows, and Artificial Intelligence.<br/>🤝 Looking to Collaborate: **Network Security** and **Vulnerability Assessment** projects. Whether it's designing secure systems and infrastructure, analyzing threats, or mitigating risks
 
 ## Skills
 
