@@ -39,11 +39,11 @@ I'm **Joshua Oresanya** an aspiring **Cloud Security Architect** passionate abou
 
 <div>
 <p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya-9145/23DBBD475FA9B88A?sharingId=73AF01FAD4EB0B5F" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya/23DBBD475FA9B88A?sharingId=73AF01FAD4EB0B5F" target="_blank">
     <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png" alt="Azure AI Fundamentals" />
   </a>
   <br/>Microsoft Certified: Azure AI Fundamentals<br/>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya-9145/4F1A22F641883A70?sharingId=73AF01FAD4EB0B5F" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaOresanya/4F1A22F641883A70?sharingId=73AF01FAD4EB0B5F" target="_blank">
     <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png" alt="Azure Fundamentals" />
   </a>
   <br/>Microsoft Certified: Azure Fundamentals<br/>
