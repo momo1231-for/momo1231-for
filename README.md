@@ -47,6 +47,10 @@ I'm **Joshua Oresanya** an aspiring **Cloud Security Architect** passionate abou
     <img src="https://github.com/momo1231-for/cert/blob/main/Screenshot%202025-06-27%20010245.png" alt="Azure Fundamentals" />
   </a>
   <br/>Microsoft Certified: Azure Fundamentals<br/>
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2368FD6DD39E55AA773B8C42F2496872172C2AA2408B181DC66E19EF21E3E204" target="_blank">
+       <img src="https://github.com/momo1231-for/cert/blob/main/OCI25FNDCFA.jpeg" alt="OCI Certified Foundations Associate" />
+   </a>
+  <br/>OCI Certified Foundations Associate<br/>
    <a href="https://www.credly.com/badges/cd02c6ba-2776-484a-802e-2c8a1404fc4c/public_url" target="_blank">
        <img src="https://github.com/momo1231-for/cert/blob/main/fortinet-certified-associate-cybersecurity.1.png" alt="FortiGate Certified Associate" />
    </a>
